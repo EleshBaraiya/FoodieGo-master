@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>45980351090-736gfcn3f7f2tqmdcbq5htkfd6236o66.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.45980351090-736gfcn3f7f2tqmdcbq5htkfd6236o66</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCEY0kzfu0GARimSLw2Dkw3rsaAF7FoFAY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>45980351090</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.foodiego.foodiegov2</string>
+	<key>PROJECT_ID</key>
+	<string>foodiego-d5eaa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>foodiego-d5eaa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:45980351090:ios:78c88d1b5e94b42554a0eb</string>
+	<key>DATABASE_URL</key>
+	<string>https://foodiego-d5eaa.firebaseio.com</string>
+</dict>
+</plist>

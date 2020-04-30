@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "45980351090",
+    "firebase_url": "https://foodiego-d5eaa.firebaseio.com",
+    "project_id": "foodiego-d5eaa",
+    "storage_bucket": "foodiego-d5eaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45980351090:android:7c73e8d68c1e43f354a0eb",
+        "android_client_info": {
+          "package_name": "com.foodiego.foodiegov1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45980351090-c834g5216cm1a1o4drij6p0nkneinrhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmz6dDD1B9LwfzU1vUXRyPrgzQV3SFKZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45980351090-c834g5216cm1a1o4drij6p0nkneinrhg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "45980351090-ivhocvhhvmq05o485po3t2h72bq81vsg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.foodiego.FoodieGov1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45980351090:android:640cfdd0ebb3645954a0eb",
+        "android_client_info": {
+          "package_name": "com.foodiego.foodiegov2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45980351090-c834g5216cm1a1o4drij6p0nkneinrhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmz6dDD1B9LwfzU1vUXRyPrgzQV3SFKZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45980351090-c834g5216cm1a1o4drij6p0nkneinrhg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "45980351090-ivhocvhhvmq05o485po3t2h72bq81vsg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.foodiego.FoodieGov1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
